@@ -14,10 +14,6 @@
 
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
 
-#Deploy To Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/xmzBvn)
-
-We have temporarily disabled the deployment for  all these cloud service platforms due to security and ban issues. We don't want innocent users who sign up there to be banned from the platform as a result of this deployment. [Read More](https://t.me/TheYukki/2541)
 
 ## 🖇 Generating Pyrogram String Session
 
@@ -30,6 +26,8 @@ We have temporarily disabled the deployment for  all these cloud service platfor
 
 Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
 
+##Deploy To Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/xmzBvn)
 
 # 🏷 Support / Assistance
 
